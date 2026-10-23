@@ -14,7 +14,3 @@ Ex-programmer, ultra/mountain runner, and home lab tinkerer in Lincolnshire, UK.
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![ESPHome](https://img.shields.io/badge/ESPHome-000000?logo=esphome&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrisramsay&show_icons=true" alt="GitHub stats"/>
-</p>

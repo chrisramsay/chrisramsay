@@ -7,6 +7,9 @@ Ex-programmer, ultra/mountain runner, and home lab tinkerer in Lincolnshire, UK.
 - ☄️ **Meteor cameras**: 5 Global Meteor Network stations
 - 🌡️ **Weather & soil sensors**: ESP32 + ESPHome → InfluxDB
 
+### ⏱️ Metrics
+![Metrics](./github-metrics.svg)
+
 ### 🛠️ Tools I use
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![ESPHome](https://img.shields.io/badge/ESPHome-000000?logo=esphome&logoColor=white)
